@@ -1,0 +1,48 @@
+{
+   "token": "OTMyMTk2ODYxMjc0NjM2MzM4.Gvxsm2.0fuP99STICeV3-KnkA2gY2rdkw55GllWwVizz0",
+   "prefix": "!",
+   "ownerIDS": [
+      "814032394935992350"
+   ],
+   "fnbr": "GET from: https://fnbr.co",
+   "fortnitetracker": "GET from: https://fortnitetracker.com",
+   "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+   "status": {
+      "text": "!help | mangler du god musik til hverdagen så tjek www.bassfm.dk ud",
+      "text2": "Servere {guildcount} | Medlemmer {membercount}",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/milratodiscordbot"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "45.86.155.143",
+            "port": 2333,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "db199046ff194469880b936e04ca59cf",
+      "clientID": "c8396b9f56f54cbba406908139982a55"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": false
+   },
+   "lyricssettings": {
+      "lyrics_finder": false,
+      "ksoft_api": {
+         "use_this_instead": false,
+         "api_key": "DISABLED"
+      }
+   }
+}
